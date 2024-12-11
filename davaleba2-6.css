@@ -1,0 +1,456 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#conteiner {
+    height: 72px;
+    padding: 12px 32px;
+    background-color: #FBF9FF;
+}
+
+#contact-conteiner {
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    width: 1200px;
+}
+
+#contact-button {
+    display: inline-block;
+}
+
+#button {
+    color: #FFF;
+    font-family: Inter;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #6941C6;
+    background-color: #6941C6;
+}
+
+#conteiner-contact {
+    background: #F1E8FF;
+    padding: 96px;
+    width: 1440px;
+    margin: 0 auto;
+}
+
+#contact-Pricing {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+}
+
+#transparent {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    width: 768px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 32px;
+}
+
+
+#conteiner-started {
+    padding: 40px 32px 32px 32px;
+    border-radius: 16px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    width: 373px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 32px;
+}
+
+#contact-sales {
+    text-align: center;
+}
+
+#Basic-plan {
+    padding: 4px 12px;
+    align-items: center;
+    color: #6941C6;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+}
+
+#price {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    display: block;
+    margin-top: 16px;
+    margin-bottom: 8px;
+}
+
+#popular-plan {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    margin-top: 8px;
+}
+
+#conteiner-button {
+    text-align: center;
+}
+
+#button-started {
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 2px solid rgba(255, 255, 255, 0.12);
+    background: #7F56D9;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    width: 310px;
+    margin-top: 16px;
+}
+
+#button-sales {
+    padding: 12px 18px;
+    border-radius: var(--radius-md, 8px);
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+    color: #414651;
+    font-family: Inter;
+    font-size: 16px;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    width: 310px;
+    margin-top: 12px;
+}
+
+#border {
+    border-bottom: solid 1px #E9EAEB;
+    width: 310px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 32px;
+}
+
+#check-circle {
+    display: block;
+    margin-top: 32px;
+}
+
+#contact-check-circle {
+    margin-top: 16px;
+}
+
+
+#features {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    vertical-align: super;
+    margin-left: 12px;
+}
+
+#contact-business-plan {
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+}
+
+#contact-business {
+    text-align: center;
+}
+
+#Business-plan {
+    padding: 4px 12px;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+}
+
+#Growing {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    margin-top: 16px;
+}
+
+#contact-Frequently {
+    width: 1248px;
+    height: 1252px;
+    padding: 32px 0px;
+    border-radius: 24px;
+    background: #FFF;
+    margin-top: 64px;
+    text-align: center;
+}
+
+
+#Frequently-questions {
+    display: block;
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+#Everything {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+}
+
+#Group {
+    margin-right: 24px;
+}
+
+#contact-available {
+    margin-top: 32px;
+}
+
+#invoice-contact {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 16px;
+}
+
+#available {
+    width: 768px;
+    padding: 32px;
+    border-radius: 16px;
+    background: #E4E4E4;
+    margin: 0 auto;
+    text-align: start;
+    margin-top: 16px;
+}
+
+#contact-onboarding {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 8px;
+}
+
+#contact-change {
+    width: 768px;
+    padding: 32px;
+    border-radius: 16px;
+    margin: 0 auto;
+    text-align: start;
+    margin-top: 16px;
+    border: 2px solid #FF2323;
+    background: #FFE5E5;
+}
+
+#contact-cancellation {
+    width: 768px;
+    padding: 32px;
+    border-radius: 16px;
+    margin: 0 auto;
+    text-align: start;
+    margin-top: 16px;
+    border-radius: 16px;
+    background: #E9D7FF;
+}
+
+#contact-account {
+    width: 768px;
+    padding: 32px;
+    margin: 0 auto;
+    text-align: start;
+    margin-top: 16px;
+    border-radius: 16px;
+    background: #F7F4FF;
+}
+
+#contact-assistance {
+    border-radius: 16px;
+    border: 4px solid #326DFF;
+    background: #DCE6FF;
+    width: 768px;
+    padding: 32px;
+    border-radius: 16px;
+    margin: 0 auto;
+    text-align: start;
+    margin-top: 16px;
+}
+
+#contact-address {
+    width: 768px;
+    padding: 32px;
+    border-radius: 16px;
+    margin: 0 auto;
+    text-align: start;
+    margin-top: 16px;
+    border-radius: 16px;
+    background: #FFD5E7;
+}
+
+#contact-reviwes {
+    width: 1248px;
+    padding: 32px 0px;
+    border-radius: 24px;
+    background: #FFF;
+    text-align: center;
+}
+
+#conteiner-incredible {
+    margin-top: 64px;
+}
+
+#Our-reviews {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+}
+
+#incredible {
+    display: block;
+    margin-top: 20px;
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+}
+
+#conteiner__working {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 24px;
+}
+
+#contact__Logotext {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#conteiner__Project {
+    margin-top: 64px;
+
+}
+
+#contact__Avatar {
+    margin-top: 24px;
+}
+
+#contact__project {
+    width: 580px;
+    height: 256px;
+    padding: 32px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    text-align: start;
+}
+
+#conteiner__Untitled {
+    color: #181D27;
+    font-family: Inika;
+    font-size: 20px;
+    display: inline-block;
+}
+
+#Avatar {
+    text-align: start;
+    margin-top: 100px;
+}
+
+#Sienna__Hewitt {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 18px;
+}
+
+#test-contact {
+    display: inline-block;
+    margin-left: 4px;
+}
+
+#Project__Manager {
+    display: block;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+}
+
+#contact__sienna {
+    display: inline-block;
+    margin-left: 12px;
+    vertical-align: middle;
+}
+
+#contact__Logomark {
+    display: inline-block;
+    margin-left: 90px;
+    vertical-align: bottom;
+}
+
+#Company__logo {
+    display: inline-block;
+    margin-left: 180px;
+    vertical-align: super;
+}
+
+#Logotext {
+    display: inline-block;
+    margin-left: 140px;
+    vertical-align: super;
+}
+
+#contact__reviews {
+    vertical-align: middle;
+}
+
+#Caitlyn {
+    display: inline-block;
+    margin-top: 80px;
+}
+
+#contact__Caitlyn {
+    display: inline-block;
+    margin-left: 12px;
+    vertical-align: middle;
+}
+
+#contact__Schroeder {
+    display: inline-block;
+    margin-left: 12px;
+    vertical-align: super;
+}
+
+#Avatar__Schroeder {
+    margin-top: 80px;
+}
+
+#Company__OdeaoLabs {
+    display: inline-block;
+    margin-left: 180px;
+    vertical-align: bottom;
+}
+
+#Avatar__OMoore {
+    display: inline-block;
+    margin-top: 100px;
+}
+
+#contact__OMoore {
+    display: inline-block;
+    margin-left: 12px;
+    vertical-align: super;
+}
